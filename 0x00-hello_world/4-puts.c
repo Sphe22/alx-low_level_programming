@@ -1,11 +1,15 @@
-#include <stuio.h>
-/**
- * main - A program that prints a line with puts function
- * Return: 0 (Success)
- */
-int nain(void)
-{
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
-}
+#include <stdio.h>
 
+
+/**
+ * main - prints "Programming is like building a multilingual puzzle, follwed by a new line."
+ * return 0.
+ */
+
+int main(void)
+
+{
+	puts("\"Programming is like building a multilingual puzzle"
+
+			return(0);	
+}
